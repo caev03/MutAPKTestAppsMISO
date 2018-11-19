@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land_background_vertical_gradient_green.jpg.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable-land\\background_vertical_gradient_green.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_application_icon.png.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\application_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_radar.png.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\ic_menu_radar.png"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_romainguy_buddyicon.jpg.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\romainguy_buddyicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\menu_view_photo.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\menu\\view_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glow_white.png.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\glow_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_not_found_small_1.png.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\not_found_small_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_notify.png.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\stat_notify.png"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_right.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\anim\\slide_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glow_yellow.png.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\glow_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_buddyicon.jpg.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\default_buddyicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land_not_found.png.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable-land\\not_found.png"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_glow_yellow.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\selector_glow_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port_background_vertical_gradient_green.jpg.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable-port\\background_vertical_gradient_green.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\anim_layout_slide_next.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\anim\\layout_slide_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_photostream.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\layout\\screen_photostream.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_vertical_gradient.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\background_vertical_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port_not_found.png.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable-port\\not_found.png"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ericktseng_buddyicon.jpg.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\ericktseng_buddyicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\color_eden_text_menu_entry.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\color\\eden_text_menu_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\raw_disclaimer.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\raw\\disclaimer"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_glow.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\selector_glow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_not_found_small_2.png.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\not_found_small_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_left.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\anim\\slide_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_user.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\layout\\list_item_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boblee_buddyicon.jpg.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\boblee_buddyicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_login.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\layout\\screen_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\layout_crop_option.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\layout\\crop_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_glow_white.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\drawable\\selector_glow_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_item_photo.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\layout\\grid_item_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\anim_layout_slide_back.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\anim\\layout_slide_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\layout_shared_progress.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\layout\\shared_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_photo.xml.flat",
+        "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\layout\\screen_photo.xml"
+    }
+]

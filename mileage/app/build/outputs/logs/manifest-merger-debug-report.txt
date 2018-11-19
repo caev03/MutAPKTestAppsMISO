@@ -1,0 +1,411 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:2:1-90:12
+	package
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:3:2-36
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:4:2-29
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:5:2-28
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:6:2-32
+uses-sdk
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:8:2-43
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:8:2-43
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:8:2-43
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:8:2-43
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:8:2-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:8:12-41
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:8:2-43
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:9:2-78
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:9:19-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:10:2-78
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:10:19-75
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:11:2-62
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:11:19-60
+supports-screens
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:12:2-17:4
+	android:largeScreens
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:13:3-30
+	android:smallScreens
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:15:3-30
+	android:normalScreens
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:14:3-31
+	android:anyDensity
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:16:3-28
+application
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:18:2-89:16
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:18:15-47
+	android:icon
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:18:48-77
+provider#com.evancharlton.mileage.provider.FillUpsProvider
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:19:3-103
+	android:authorities
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:19:54-100
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:19:13-53
+activity#com.evancharlton.mileage.Mileage
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:21:3-26:14
+	android:theme
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:21:37-84
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:21:13-36
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:22:4-25:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:23:5-57
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:23:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:24:15-62
+activity#com.evancharlton.mileage.AboutActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:27:3-125
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:27:43-78
+	android:theme
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:27:79-122
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:27:13-42
+activity#com.evancharlton.mileage.FillupActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:28:3-83
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:28:44-80
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:28:13-43
+activity#com.evancharlton.mileage.FillupInfoActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:29:3-92
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:29:48-89
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:29:13-47
+activity#com.evancharlton.mileage.FillupListActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:30:3-92
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:30:48-89
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:30:13-47
+activity#com.evancharlton.mileage.FieldActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:31:3-81
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:31:43-78
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:31:13-42
+activity#com.evancharlton.mileage.FieldListActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:32:3-90
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:32:47-87
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:32:13-46
+activity#com.evancharlton.mileage.VehicleActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:33:3-85
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:33:45-82
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:33:13-44
+activity#com.evancharlton.mileage.VehicleListActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:34:3-94
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:34:49-91
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:34:13-48
+activity#com.evancharlton.mileage.VehicleTypeActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:35:3-94
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:35:49-91
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:35:13-48
+activity#com.evancharlton.mileage.VehicleTypeListActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:36:3-103
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:36:53-100
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:36:13-52
+activity#com.evancharlton.mileage.ServiceIntervalActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:37:3-102
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:37:53-99
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:37:13-52
+activity#com.evancharlton.mileage.ServiceIntervalsListActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:38:3-112
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:38:58-109
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:38:13-57
+activity#com.evancharlton.mileage.ServiceIntervalTemplateActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:39:3-119
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:39:61-116
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:39:13-60
+activity#com.evancharlton.mileage.ServiceIntervalTemplateListActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:40:3-128
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:40:65-125
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:40:13-64
+activity#com.evancharlton.mileage.SettingsActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:41:3-87
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:41:46-84
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:41:13-45
+activity#com.evancharlton.mileage.VehicleStatisticsActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:42:3-98
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:42:55-95
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:42:13-54
+activity#com.evancharlton.mileage.ImportExportActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:43:3-95
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:43:50-92
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:43:13-49
+activity#com.evancharlton.mileage.ImportActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:44:3-83
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:44:44-80
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:44:13-43
+activity#com.evancharlton.mileage.ExportActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:45:3-83
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:45:44-80
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:45:13-43
+activity#com.evancharlton.mileage.io.CsvExportActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:46:3-92
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:46:50-90
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:46:13-49
+activity#com.evancharlton.mileage.io.CsvColumnMappingActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:47:3-104
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:47:57-102
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:47:13-56
+activity#com.evancharlton.mileage.io.CsvVehicleMappingActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:48:3-106
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:48:58-104
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:48:13-57
+activity#com.evancharlton.mileage.io.CsvDateFormatActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:49:3-102
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:49:54-99
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:49:13-53
+activity#com.evancharlton.mileage.io.CsvImportActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:50:3-92
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:50:50-90
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:50:13-49
+activity#com.evancharlton.mileage.io.DbExportActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:51:3-90
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:51:49-88
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:51:13-48
+activity#com.evancharlton.mileage.io.DbImportActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:52:3-90
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:52:49-88
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:52:13-48
+activity#com.evancharlton.mileage.charts.AverageFuelEconomyChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:53:3-110
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:53:60-107
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:53:13-59
+activity#com.evancharlton.mileage.charts.WorstFuelEconomyChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:54:3-108
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:54:58-105
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:54:13-57
+activity#com.evancharlton.mileage.charts.BestFuelEconomyChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:55:3-107
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:55:57-104
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:55:13-56
+activity#com.evancharlton.mileage.charts.AverageDistanceChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:56:3-108
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:56:57-105
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:56:13-56
+activity#com.evancharlton.mileage.charts.MinimumDistanceChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:57:3-108
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:57:57-105
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:57:13-56
+activity#com.evancharlton.mileage.charts.MaximumDistanceChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:58:3-108
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:58:57-105
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:58:13-56
+activity#com.evancharlton.mileage.charts.AverageCostChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:59:3-100
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:59:53-97
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:59:13-52
+activity#com.evancharlton.mileage.charts.MaximumCostChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:60:3-100
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:60:53-97
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:60:13-52
+activity#com.evancharlton.mileage.charts.MinimumCostChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:61:3-100
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:61:53-97
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:61:13-52
+activity#com.evancharlton.mileage.charts.TotalCostChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:62:3-100
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:62:51-97
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:62:13-50
+activity#com.evancharlton.mileage.charts.LastMonthCostChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:63:3-109
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:63:55-106
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:63:13-54
+activity#com.evancharlton.mileage.charts.LastYearCostChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:64:3-107
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:64:54-104
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:64:13-53
+activity#com.evancharlton.mileage.charts.AveragePriceChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:65:3-102
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:65:54-99
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:65:13-53
+activity#com.evancharlton.mileage.charts.MinimumPriceChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:66:3-102
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:66:54-99
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:66:13-53
+activity#com.evancharlton.mileage.charts.MaximumPriceChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:67:3-102
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:67:54-99
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:67:13-53
+activity#com.evancharlton.mileage.charts.AverageVolumeChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:68:3-102
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:68:55-99
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:68:13-54
+activity#com.evancharlton.mileage.charts.MinimumVolumeChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:69:3-102
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:69:55-99
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:69:13-54
+activity#com.evancharlton.mileage.charts.MaximumVolumeChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:70:3-102
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:70:55-99
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:70:13-54
+activity#com.evancharlton.mileage.charts.TotalVolumeChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:71:3-102
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:71:53-99
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:71:13-52
+activity#com.evancharlton.mileage.charts.NorthChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:72:3-91
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:72:47-88
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:72:13-46
+activity#com.evancharlton.mileage.charts.SouthChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:73:3-91
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:73:47-88
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:73:13-46
+activity#com.evancharlton.mileage.charts.EastChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:74:3-89
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:74:46-86
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:74:13-45
+activity#com.evancharlton.mileage.charts.WestChart
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:75:3-89
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:75:46-86
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:75:13-45
+service#com.evancharlton.mileage.services.RecalculateEconomyService
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:77:3-65
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:77:12-62
+service#com.evancharlton.mileage.services.AutomaticBackupService
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:79:3-62
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:79:12-59
+receiver#com.evancharlton.mileage.receivers.MediaChangedReceiver
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:81:3-86:14
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:81:13-59
+intent-filter#action:name:android.intent.action.MEDIA_MOUNTED+data:scheme:file
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:82:7-85:23
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:83:11-72
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:83:19-69
+data
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:84:11-41
+	android:scheme
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:84:17-38
+receiver#com.evancharlton.mileage.alarms.IntervalReceiver
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:88:3-55
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestAppsLimpias\mileage\app\src\main\AndroidManifest.xml:88:13-52

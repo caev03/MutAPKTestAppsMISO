@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Camilo\\Documents\\MasterThesis\\TestApps\\Photostream1\\app\\src\\main\\res\\values-port\\styles.xml",
+                    "from": {
+                        "startLines": "19,23,28",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "657,758,942",
+                        "endLines": "21,26,32",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "752,936,1154"
+                    },
+                    "to": {
+                        "startLines": "2,5,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,155,338",
+                        "endLines": "4,8,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "150,333,550"
+                    }
+                }
+            ]
+        }
+    ]
+}

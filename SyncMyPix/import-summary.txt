@@ -1,0 +1,171 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* ._.DS_Store
+* ._.classpath
+* ._.gitignore
+* ._.project
+* ._AUTHORS
+* ._AndroidManifest.xml
+* ._AndroidManifest.xml.backup
+* ._AndroidManifest.xml.modified
+* ._AppDetails.txt
+* ._LICENSE
+* ._README
+* ._assets
+* ._build.log
+* ._build.xml
+* ._build_acteve.log
+* ._build_acteve.xml
+* ._coverage.em
+* ._images
+* ._libs
+* ._local.properties
+* ._proguard-project.txt
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* .gitignore
+* 1\
+* 1\SyncMyPix-debug.apk
+* AUTHORS
+* AndroidManifest.xml.backup
+* AndroidManifest.xml.modified
+* AppDetails.txt
+* LICENSE
+* README
+* SyncMyPix-debug\
+* SyncMyPix-debug\SyncMyPix-debug.apk
+* build.log
+* build.xml
+* build_acteve.log
+* build_acteve.xml
+* coverage.em
+* images\
+* images\._about_button.png
+* images\._about_button.svg
+* images\._background.png
+* images\._background.svg
+* images\._cancel_button.svg
+* images\._cancel_button_default.png
+* images\._cancel_button_pressed.png
+* images\._default_contact.svg
+* images\._default_face.png
+* images\._default_face.svg
+* images\._help_button.svg
+* images\._help_button_default.png
+* images\._help_button_pressed.png
+* images\._home_button.svg
+* images\._home_button_default.png
+* images\._home_button_pressed.png
+* images\._icon.png
+* images\._icon.svg
+* images\._logo.png
+* images\._logo.svg
+* images\._neutral_contact.svg
+* images\._neutral_face.png
+* images\._neutral_face.svg
+* images\._results_button.png
+* images\._results_button.svg
+* images\._sad_contact.svg
+* images\._sad_face.png
+* images\._sad_face.svg
+* images\._settings_button.png
+* images\._settings_button.svg
+* images\._smiley.png
+* images\._smiley_face.png
+* images\._smiley_face.svg
+* images\._sync_button.png
+* images\._sync_button.svg
+* images\._title.png
+* images\._title.svg
+* images\._trash_button.svg
+* images\._trash_button_default.png
+* images\._trash_button_pressed.png
+* images\about_button.png
+* images\about_button.svg
+* images\background.png
+* images\background.svg
+* images\cancel_button.svg
+* images\cancel_button_default.png
+* images\cancel_button_pressed.png
+* images\default_contact.svg
+* images\default_face.png
+* images\default_face.svg
+* images\help_button.svg
+* images\help_button_default.png
+* images\help_button_pressed.png
+* images\home_button.svg
+* images\home_button_default.png
+* images\home_button_pressed.png
+* images\icon.png
+* images\icon.svg
+* images\logo.png
+* images\logo.svg
+* images\neutral_contact.svg
+* images\neutral_face.png
+* images\neutral_face.svg
+* images\results_button.png
+* images\results_button.svg
+* images\sad_contact.svg
+* images\sad_face.png
+* images\sad_face.svg
+* images\settings_button.png
+* images\settings_button.svg
+* images\smiley.png
+* images\smiley_face.png
+* images\smiley_face.svg
+* images\sync_button.png
+* images\sync_button.svg
+* images\title.png
+* images\title.svg
+* images\trash_button.svg
+* images\trash_button_default.png
+* images\trash_button_pressed.png
+* proguard-project.txt
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\._simply-facebook-0.1.3-BETA.jar => app\libs\._simply-facebook-0.1.3-BETA.jar
+* libs\simply-facebook-0.1.3-BETA.jar => app\libs\simply-facebook-0.1.3-BETA.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\._com => app\src\main\resources\._com
+* src\com\._nloko => app\src\main\resources\com\._nloko
+* src\com\nloko\._android => app\src\main\resources\com\nloko\._android
+* src\com\nloko\android\._syncmypix => app\src\main\resources\com\nloko\android\._syncmypix
+* src\com\nloko\android\syncmypix\._contactutils => app\src\main\resources\com\nloko\android\syncmypix\._contactutils
+* src\com\nloko\android\syncmypix\._EmmaInstrument => app\src\main\resources\com\nloko\android\syncmypix\._EmmaInstrument
+* src\com\nloko\android\syncmypix\._facebook => app\src\main\resources\com\nloko\android\syncmypix\._facebook
+* src\com\nloko\android\syncmypix\._graphics => app\src\main\resources\com\nloko\android\syncmypix\._graphics
+* src\com\nloko\android\syncmypix\._namematcher => app\src\main\resources\com\nloko\android\syncmypix\._namematcher
+* src\com\nloko\android\syncmypix\._views => app\src\main\resources\com\nloko\android\syncmypix\._views
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

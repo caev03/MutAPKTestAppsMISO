@@ -1,0 +1,140 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* ._.DS_Store
+* ._.svn
+* ._AndroidManifest.xml
+* ._AndroidManifest.xml.backup
+* ._AndroidManifest.xml.modified
+* ._README
+* ._build.log
+* ._build.xml
+* ._build_acteve.log
+* ._build_acteve.xml
+* ._coverage.em
+* ._libs
+* ._local.properties
+* ._photo.rt.properties
+* ._proguard-project.txt
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._resources
+* ._src
+* 1\
+* 1\Photostream-debug.apk
+* AndroidManifest.xml.backup
+* AndroidManifest.xml.modified
+* Photostream-debug\
+* Photostream-debug\Photostream-debug.apk
+* README
+* build.log
+* build.xml
+* build_acteve.log
+* build_acteve.xml
+* coverage.em
+* photo.rt.properties
+* proguard-project.txt
+* proguard.cfg
+* resources\
+* resources\._.svn
+* resources\._graphics
+* resources\.svn\
+* resources\.svn\._entries
+* resources\.svn\entries
+* resources\graphics\
+* resources\graphics\._.svn
+* resources\graphics\._1. Login - Android Flickr.png
+* resources\graphics\._2. Photostream - Android Flickr.png
+* resources\graphics\._3. View Photo - Android Flickr.png
+* resources\graphics\._psd
+* resources\graphics\.svn\
+* resources\graphics\.svn\._entries
+* resources\graphics\.svn\._prop-base
+* resources\graphics\.svn\._text-base
+* resources\graphics\.svn\entries
+* resources\graphics\.svn\prop-base\
+* resources\graphics\.svn\prop-base\._1. Login - Android Flickr.png.svn-base
+* resources\graphics\.svn\prop-base\._2. Photostream - Android Flickr.png.svn-base
+* resources\graphics\.svn\prop-base\._3. View Photo - Android Flickr.png.svn-base
+* resources\graphics\.svn\prop-base\1. Login - Android Flickr.png.svn-base
+* resources\graphics\.svn\prop-base\2. Photostream - Android Flickr.png.svn-base
+* resources\graphics\.svn\prop-base\3. View Photo - Android Flickr.png.svn-base
+* resources\graphics\.svn\text-base\
+* resources\graphics\.svn\text-base\._1. Login - Android Flickr.png.svn-base
+* resources\graphics\.svn\text-base\._2. Photostream - Android Flickr.png.svn-base
+* resources\graphics\.svn\text-base\._3. View Photo - Android Flickr.png.svn-base
+* resources\graphics\.svn\text-base\1. Login - Android Flickr.png.svn-base
+* resources\graphics\.svn\text-base\2. Photostream - Android Flickr.png.svn-base
+* resources\graphics\.svn\text-base\3. View Photo - Android Flickr.png.svn-base
+* resources\graphics\1. Login - Android Flickr.png
+* resources\graphics\2. Photostream - Android Flickr.png
+* resources\graphics\3. View Photo - Android Flickr.png
+* resources\graphics\psd\
+* resources\graphics\psd\._.svn
+* resources\graphics\psd\._Android Flickr.psd
+* resources\graphics\psd\._Photostream Icon.psd
+* resources\graphics\psd\._eden.ase
+* resources\graphics\psd\.svn\
+* resources\graphics\psd\.svn\._entries
+* resources\graphics\psd\.svn\._prop-base
+* resources\graphics\psd\.svn\._text-base
+* resources\graphics\psd\.svn\entries
+* resources\graphics\psd\.svn\prop-base\
+* resources\graphics\psd\.svn\prop-base\._Android Flickr.psd.svn-base
+* resources\graphics\psd\.svn\prop-base\._Photostream Icon.psd.svn-base
+* resources\graphics\psd\.svn\prop-base\._eden.ase.svn-base
+* resources\graphics\psd\.svn\prop-base\Android Flickr.psd.svn-base
+* resources\graphics\psd\.svn\prop-base\Photostream Icon.psd.svn-base
+* resources\graphics\psd\.svn\prop-base\eden.ase.svn-base
+* resources\graphics\psd\.svn\text-base\
+* resources\graphics\psd\.svn\text-base\._Android Flickr.psd.svn-base
+* resources\graphics\psd\.svn\text-base\._Photostream Icon.psd.svn-base
+* resources\graphics\psd\.svn\text-base\._eden.ase.svn-base
+* resources\graphics\psd\.svn\text-base\Android Flickr.psd.svn-base
+* resources\graphics\psd\.svn\text-base\Photostream Icon.psd.svn-base
+* resources\graphics\psd\.svn\text-base\eden.ase.svn-base
+* resources\graphics\psd\Android Flickr.psd
+* resources\graphics\psd\Photostream Icon.psd
+* resources\graphics\psd\eden.ase
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\._.svn => app\src\main\resources\._.svn
+* src\._com => app\src\main\resources\._com
+* src\com\._.svn => app\src\main\resources\com\._.svn
+* src\com\._google => app\src\main\resources\com\._google
+* src\com\google\._.svn => app\src\main\resources\com\google\._.svn
+* src\com\google\._android => app\src\main\resources\com\google\._android
+* src\com\google\android\._.svn => app\src\main\resources\com\google\android\._.svn
+* src\com\google\android\._photostream => app\src\main\resources\com\google\android\._photostream
+* src\com\google\android\photostream\._.svn => app\src\main\resources\com\google\android\photostream\._.svn
+* src\com\google\android\photostream\._EmmaInstrument => app\src\main\resources\com\google\android\photostream\._EmmaInstrument
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

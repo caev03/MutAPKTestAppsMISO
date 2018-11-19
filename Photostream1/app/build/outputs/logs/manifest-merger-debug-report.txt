@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:2:1-82:12
+	package
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:2:120-160
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:2:94-119
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:2:70-93
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:6:22-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:7:22-63
+application
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:9:5-79:15
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:9:60-100
+	android:icon
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:9:18-59
+	android:theme
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:9:101-129
+activity#com.google.android.photostream.LoginActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:11:9-16:20
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:11:19-59
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:11:60-89
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:14:27-74
+activity-alias#com.google.android.photostream.WallpaperActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:20:9-25:26
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:20:25-71
+	android:targetActivity
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:20:105-143
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:20:72-104
+intent-filter#action:name:android.intent.action.SET_WALLPAPER+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.SET_WALLPAPER
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:22:25-75
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:23:27-73
+activity-alias#com.google.android.photostream.CreateShortcutActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:29:9-34:26
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:29:25-73
+	android:targetActivity
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:29:112-150
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:29:74-111
+intent-filter#action:name:android.intent.action.CREATE_SHORTCUT+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:31:17-79
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:31:25-77
+activity#com.google.android.photostream.PhotostreamActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:40:9-52:20
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:40:19-59
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:40:60-95
+intent-filter#action:name:com.google.android.photostream.FLICKR_STREAM+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:41:13-44:29
+action#com.google.android.photostream.FLICKR_STREAM
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:42:17-86
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:42:25-84
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:flickr.com+data:host:www.flickr.com+data:pathPrefix:/photos/+data:pathPrefix:/photos/+data:scheme:http+data:scheme:http
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:45:13-51:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:46:17-68
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:48:27-75
+data
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:49:17-102
+	android:host
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:49:23-48
+	android:scheme
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:49:79-100
+	android:pathPrefix
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:49:49-78
+activity#com.google.android.photostream.ViewPhotoActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:56:9-61:20
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:56:19-59
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:56:60-93
+intent-filter#action:name:com.google.android.photostream.FLICKR_PHOTO+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:57:13-60:29
+action#com.google.android.photostream.FLICKR_PHOTO
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:58:17-85
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:58:25-83
+activity#com.google.android.photostream.SettingsActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:63:9-135
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:63:19-63
+	android:theme
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:63:97-133
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:63:64-96
+receiver#com.google.android.photostream.BootReceiver
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:65:9-69:20
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:65:19-47
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:66:13-68:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:67:17-78
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:67:25-76
+service#com.google.android.photostream.CheckUpdateService
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:71:9-54
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:71:18-52
+receiver#com.google.android.photostream.EmmaInstrument.SMSInstrumentedReceiver
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:73:5-77:12
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:73:15-99
+intent-filter#action:name:edu.gatech.m3.emma.COLLECT_COVERAGE
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:74:1-76:17
+action#edu.gatech.m3.emma.COLLECT_COVERAGE
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:75:1-61
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:75:9-59
+activity#com.google.android.photostream.EmmaInstrument.InstrumentedActivity
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:78:1-138
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:78:11-54
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:78:55-136
+instrumentation
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:80:1-222
+	android:label
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:80:49-84
+	android:handleProfiling
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:80:18-48
+	android:targetPackage
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:80:166-220
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:80:85-165
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:81:1-76
+	android:name
+		ADDED from C:\Users\Camilo\Documents\MasterThesis\TestApps\Photostream1\app\src\main\AndroidManifest.xml:81:18-74

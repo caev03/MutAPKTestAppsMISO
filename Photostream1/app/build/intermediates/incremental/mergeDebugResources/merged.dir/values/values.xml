@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="eden_dark">#ff132e28</color>
+    <color name="eden_dark_green">#ff648c13</color>
+    <color name="eden_green">#ff9da842</color>
+    <color name="eden_light">#ffffffff</color>
+    <color name="eden_light_green">#ffe1df9e</color>
+    <color name="eden_red">#ffa12d0d</color>
+    <color name="translucent_white">#99ffffff</color>
+    <declare-styleable name="GridLayout">
+        <attr format="integer" name="numColumns"/>
+        <attr format="integer" name="numRows"/>
+    </declare-styleable>
+    <string name="activity_create_shortcut">Flickr photos</string>
+    <string name="activity_preferences">Settings</string>
+    <string name="activity_set_wallpaper">Flickr</string>
+    <string name="application_name">Photostream</string>
+    <string name="choose_crop_title">Select Crop Application</string>
+    <string name="context_menu_delete_user">Remove</string>
+    <string name="context_menu_show_photostream">Show photos</string>
+    <string name="disclaimer_accept">Accept</string>
+    <string name="disclaimer_title">Disclaimer</string>
+    <string name="error_cannot_find_location">Could not find location.</string>
+    <string name="error_cannot_find_radar">Please install the Radar package.</string>
+    <string name="error_cannot_save_file">Photo cannot be set as a wallpaper.</string>
+    <string name="error_crop_option">Failed to Crop Photo.</string>
+    <string name="eula_accept">Accept</string>
+    <string name="eula_refuse">Don\'t accept</string>
+    <string name="eula_title">License agreement</string>
+    <string name="menu_item_info_label">Information</string>
+    <string name="menu_item_radar_label">Radar</string>
+    <string name="menu_item_settings_label">Settings</string>
+    <string name="notification_contact_has_new_photos">%s has updated photos</string>
+    <string name="notification_new_photos">%s has new photos</string>
+    <string name="notification_title">New photos</string>
+    <string name="preferences_notifications">Notification settings</string>
+    <string name="preferences_notifications_enable">New photos notifications</string>
+    <string name="preferences_notifications_summary">Notify in status bar when new photos are available</string>
+    <string name="preferences_ring_enable">Sound</string>
+    <string name="preferences_ring_summary">Also play ringtone when new photos are available</string>
+    <string name="preferences_ringtone">Select ringtone</string>
+    <string name="preferences_vibrate_enable">Vibrate</string>
+    <string name="preferences_vibrate_summary">Also vibrate when new photos are available</string>
+    <string name="screen_login_error">Unknown user or network error</string>
+    <string name="screen_login_prompt">Username</string>
+    <string name="screen_photo_back">Back</string>
+    <string name="screen_photo_separator">|</string>
+    <string name="screen_photo_set">Set</string>
+    <string name="screen_photostream_back">Back</string>
+    <string name="screen_photostream_next">Next</string>
+    <string name="screen_photostream_separator">|</string>
+    <string name="success_wallpaper_set">Photo set as wallpaper.</string>
+    <style name="TextMenuEntry">
+        <item name="android:textSize">35px</item>
+        <item name="android:textColor">@color/eden_text_menu_entry</item>
+    </style>
+    <style name="Theme" parent="android:Theme">
+        <item name="android:windowBackground">@drawable/background_vertical_gradient</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
